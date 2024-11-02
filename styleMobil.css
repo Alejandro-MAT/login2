@@ -1,0 +1,37 @@
+@media (max-width: 425px) {
+
+    .mainContainer {
+        width: auto;
+        height: auto;
+    }
+    .mainContainer > img {
+        display: none;
+    }
+
+    .loginItemContainer {
+        padding: 2rem 0;
+        gap: 2rem;
+    }
+
+    .loginItemContainer > p {
+        font-size: 1.4rem;
+    }
+
+    .logoContainer > img {
+        width: 2.5rem;
+    }
+
+    .logoContainer > h1 {
+        font-size: 2rem;
+    }
+
+    .loginItemContainer > a {
+        margin-top: 20px;
+    }
+
+    .registerItemContainer {
+        flex-direction: column;
+    }
+
+
+}

@@ -1,0 +1,22 @@
+@media (max-width: 1024px) {
+    .mainContainer > img {
+        width: 50%;
+        height: auto;
+    }
+
+    .logoContainer {
+        font-size: 2.4rem;
+    }
+
+    .loginItemContainer {
+        width: 80%;
+    }
+
+    .loginItemContainer > p {
+        font-size: 1.4rem;
+    }
+
+    .registerItemContainer {
+        gap: 2px;
+    }
+}
